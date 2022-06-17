@@ -5,11 +5,12 @@
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
-- 🔭 I’m currently AWS Solution Architect Traniee at Clarusway IT School
-- 🌱 I’m currently learning cloud computing and devops tools
+- 🔭 I’m a person in love with learning innovations.
+- 🌱 I’m currently learning AWS, cloud computing and devops tools
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me mtndrg@gmail.com <br>
+- 📫 https://www.linkedin.com/in/mtndrk/
 
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
