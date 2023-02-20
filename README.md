@@ -28,10 +28,8 @@
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
    
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <br /> 
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <br />
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+  <br />   <code><img width="13%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <br />  <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
   <br />
    
