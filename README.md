@@ -6,7 +6,7 @@
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
 - 🔭 I’m a person in love with learning innovations.
-- 🌱 I’m currently learning AWS, cloud computing and devops tools
+- 🌱 I always love to progress of AWS, cloud computing and devops tools
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me mtndrg@gmail.com <br>
